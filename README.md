@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+FlowStyler is a stylish text generator that transforms normal text into fancy Unicode fonts.
+Create eye-catching text for Instagram bios, TikTok captions, Discord usernames and more.
+Just type your text, choose a style and copy it instantly.
+
+No installation required.
+
+Soon!
+
 <!--
 **flowstyler/flowstyler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
